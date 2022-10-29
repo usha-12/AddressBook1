@@ -1,2 +1,4 @@
-package com.brideglabz.addressbook;public class AddressBook {
+package com.brideglabz.addressbook;
+
+public class AddressBook {
 }
